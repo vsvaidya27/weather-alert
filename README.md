@@ -1,6 +1,6 @@
 # Weather Alert System
 
-This Python script uses WeatherAPI to send daily weather alerts via Telegram. It checks for rain, strong winds, heat (>90°F), and cold (<60°F) and sends notifications accordingly.
+This Python script uses WeatherAPI to send daily weather alerts via Telegram. It checks for rain, strong winds, heat (>85°F), and cold (<60°F) and sends notifications accordingly.
 
 ## Setup
 
